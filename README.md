@@ -1,2 +1,2 @@
-# RSASRec
-code submission of RSASRec for KDD 2022
+# MIS-Rec
+code submission of MIS-Rec for ICDM
