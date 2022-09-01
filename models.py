@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2020/3/30 10:57
-# @Author  : Hui Wang
 
 import torch
 import torch.nn as nn
