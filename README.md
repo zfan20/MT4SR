@@ -1,2 +1,2 @@
 # MT4SR
-code submission of MT4SR
+accepted Bigdata'22: MT4SR
