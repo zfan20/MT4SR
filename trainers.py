@@ -869,7 +869,7 @@ class RelationAwareSASRecModelTrainer(Trainer):
         item_freq = defaultdict(int)
         train = {}
         for user_id, seq in enumerate(user_seq):
-            train_seq = seq[:-3]
+            train_seq = seq[:-2]
             train[user_id] = train_seq
             for itemid in train_seq:
                 item_freq[itemid] += 1
