@@ -1,5 +1,6 @@
 # MT4SR
-accepted Bigdata'22: MT4SR
+This is the implementation for the paper:
+BigData'22. You may find it on [Arxiv](https://arxiv.org/pdf/2210.13572.pdf)
 
 The code is built on Pytorch.
 The dataset preprocess code is in data/ dir. Change the path in the code and also include the meta data file path.
